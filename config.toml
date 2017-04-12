@@ -1,6 +1,6 @@
 # Site settings
 baseurl = "https://arlomurray.github.io"
-themesDir = "themes/"
+themesDir = "themes/.."
 languageCode = "en-us"
 title = "Arlo Murray"
 theme = "hugo-cactus-theme"
