@@ -1,6 +1,6 @@
 # Site settings
-baseurl = "https://arlomurray.github.io"
-themesDir = "themes/.."
+baseurl = "/"
+themesDir = "themes/"
 languageCode = "en-us"
 title = "Arlo Murray"
 theme = "hugo-cactus-theme"
@@ -12,10 +12,10 @@ googleAnalytics = ""
 [params]
 	name = "Arlo Murray"
 	description = "Describe your website"
-	bio = "Blogger - Programmer - Gopher"
+	bio = "I write about stuff here sometimes."
 	# Enter optionally your twitter account
-	twitter = "Your Twitter account"
-	enableRSS = true
+	twitter = "arloemurray"
+	enableRSS = false
 
 	# Add custom assets with their paths relative to the static folder
 	customCSS = []
@@ -34,7 +34,7 @@ googleAnalytics = ""
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "I'm an enthusiastic gopher."
+	aboutAuthor = "Always up for learning something new."
 	tweet = ""
 	share = ""
 	# 404 page
