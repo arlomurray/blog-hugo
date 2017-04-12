@@ -5,3 +5,5 @@ title = "About"
 +++
 
 My name is Arlo.
+
+I wrote a book on creating web applications with Golang. Get it for free [here](https://www.leanpub.com/getgo-ing)! 
