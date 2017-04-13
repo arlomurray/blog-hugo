@@ -6,7 +6,7 @@ title = "Setting up a blog with Github Pages and Hugo"
 As the topic is still fresh on my mind from creating this blog, I thought I would write a quick post on how others can create their own.
 
 ## What is Hugo and Github Pages
-![Hugo](https://github.com/arlomurray/blog-hugo/public/images/hugo.png "Hugo Platform")
+![Hugo](https://github.com/arlomurray/blog-hugo/content/hugo.png "Hugo Platform")
 Hugo is a static website generator, which makes it ideal for creating things like blogs, personal websites, or any other site that does not require dynamic content. It is very simple to install and configure on any operating system, be hosted anywhere, is incredibly fast, *and* it is written in the Go programming language. Being quite a avid fan/user of Go, I was naturally drawn to the platform. It also seemed easier to use than Wordpress, which I've had my fair share of bouts with in the past. On top of all that, Hugo is a free platform.
 
 However, since Hugo only generates static pages, the site needs to be hosted by another service. (Hugo actually can serve websites, but it does not seem to be a popular option.) In my case, this is where Github Pages comes into play. Anyone that has used Github or follows blogs of programmers have probably heard of Github Pages. Hosting a site on GP is also free, plus the site can have a custom domain and be secured with HTTPS. Full Disclosure: I've heard mixed reviews about Github Pages, but decided to give it a shot.
