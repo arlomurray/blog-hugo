@@ -16,7 +16,8 @@ googleAnalytics = ""
 	# Enter optionally your twitter account
 	twitter = "arloemurray"
 	enableRSS = false
-
+	disqusShortname = "arlomurray-github-io"
+	enableDisqus = true
 	# Add custom assets with their paths relative to the static folder
 	customCSS = []
 	customJS  = []
